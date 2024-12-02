@@ -10,4 +10,4 @@ This is a Power BI project where I created a sales dashboard that shows key perf
 - `BlinkIT Grocery Data.xlsx` - The sample data used in the report.
 
 ## Screenshots
-![Dashboard Screenshot](./images/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/chandualcs/Blinkit-sales-data-analysis-using-Power-BI/blob/main/blinkit_dashboard.png)
